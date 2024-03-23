@@ -1,2 +1,2 @@
-# https://gamingking12345.github.io/KingsSite/YOUTUBE
+# https://gamingking12345.github.io/KingsSite/
 A website
